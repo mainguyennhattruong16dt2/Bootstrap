@@ -1,0 +1,81 @@
+*{
+	margin:0;
+	padding:0;
+
+}
+.row-custom{
+	height: 70px;
+}
+.col-row-1:nth-child(odd){
+	background-color: #9CC2E5;
+
+}
+.col-row-2:nth-child(1){
+	background-color:#92D050;
+}
+.col-row-2:nth-child(3){
+	background-color:#FFFF00;
+}
+.col-row-3{
+	background-color:#FFD966;
+}
+.col-row-3:nth-child(1),.col-row-3:nth-child(3),.col-row-3:nth-child(6){
+	background-color:white;
+}
+.row4-custom{
+	height: 140px;
+}
+.col-row-4:nth-child(2),.col-row-4:nth-child(5){
+	background-color:#0070C0;
+}
+.item-row4{
+	border-bottom:1px solid black;
+}
+.row5-custom{
+	height:210px;
+}
+.item-row-5{
+	height: 33.33%;
+	border-bottom: 1px solid black;
+}
+.col-row-5:nth-child(2){
+	background-color: #FF0000;
+}
+.col-row-5:nth-child(3){
+	background-color: #A8D08D;
+}
+/*.main{
+	width:650px;
+	margin:auto;
+	margin-top:30px;
+}
+.bordertruong{
+	border: 1px solid black;
+}
+.o1{
+	height: 35px;
+}
+.hong{
+	background-color: #9CC2E5;
+}
+.trang{
+	background-color: white;
+}
+.green{
+	background-color: #92D050;
+}
+.yellow{
+	background-color: #FFFF00;
+}
+.hongnhat{
+	background-color: #FFD966;
+}
+.xanhduong{
+	background-color: #0070C0;
+}
+.do{
+	background-color: #FF0000;
+}
+.hongdam{
+	background-color: #A8D08D;
+}*/
